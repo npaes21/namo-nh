@@ -20,7 +20,7 @@ body {
 	position: absolute;
 	font-size: 1.5rem;
 	color: rgba(255, 0, 0, 0.554);
-	top: 36% !important;
+	top: 34% !important;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -29,7 +29,7 @@ body {
 	position: absolute;
 	font-size: 1.5rem;
 	color: rgba(255, 0, 0, 0.554);
-	top: 40% !important;
+	top: 38% !important;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -266,10 +266,10 @@ body {
 
 @media (max-width: 400px) {
 		.instruction {
-		top: 36% !important;
+		top: 37% !important;
 	}
 	.instruction-two {
-		top: 39% !important;
+		top: 40% !important;
 	}
 }
 

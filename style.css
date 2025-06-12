@@ -253,10 +253,10 @@ body {
 		padding: 5px;
   }
 	.instruction {
-		top: 38%;
+		top: 38% !important;
 	}
 	.instruction-two {
-		top: 41%;
+		top: 41% !important;
 	}
 
 	.message {
@@ -266,10 +266,10 @@ body {
 
 @media (max-width: 400px) {
 		.instruction {
-		top: 36%;
+		top: 36% !important;
 	}
 	.instruction-two {
-		top: 39%;
+		top: 39% !important;
 	}
 }
 
